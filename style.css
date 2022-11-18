@@ -1,4 +1,6 @@
-.navbar
-{
-    
-}
+
+
+    .navbar{width: 100%;
+    background-image: linear-gradient(to right,#ffa64d,#ff80ff)
+     ;}
+     .nav-link{color: white; !important;}
