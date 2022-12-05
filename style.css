@@ -19,7 +19,7 @@ body{
 }
 footer{
   position: fixed;
-  background: #140B5C;
+  background: #ffc107;
   width: 100%;
   bottom: 0;
   left: 0;
@@ -52,7 +52,7 @@ footer .content .top{
   display: flex;
 }
 .content .top .media-icons a{
-  height: 40px;
+  height: 70px;
   width: 40px;
   margin: 0 8px;
   border-radius: 50%;
