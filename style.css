@@ -6,5 +6,59 @@
      .nav-link{color: white; !important;}
     
   
+/* Footer Section */
 
+
+.site-footer {
+ padding: 1em 0;
+  background: #db5bdb;
+  font-size: 14px;
+  color: white;
+  height: 340px;
+}
+
+.site-footer p:last-child {
+    margin-bottom: 0;
+}
+.site-footer a {
+    color:blue
     
+}
+.site-footer a:hover {
+    color: white;
+    border-bottom: 1px solid rgba(255,255,255,0.2);
+}
+
+.site-footer h2 {
+    font-size: 22px;
+    margin-bottom: 28px;
+    letter-spacing: .05em;
+    color: white;
+}
+
+.site-footer .footer-link li {
+    line-height: 1.5;
+    margin-bottom: 15px;
+}
+
+.footer-social a {
+    line-height: 0;
+    border-radius: 50%;
+    margin: 0 5px 5px 0;
+    border: 1px solid rgba(255,255,255,0.1);
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    display: inline-block;
+}
+
+.footer-social a:hover{
+    background: white;
+    border-color: white;
+    color: black;
+}
+
+.footer-social .fa {
+    margin-top: 7px;
+
+}
