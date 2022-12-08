@@ -1,8 +1,8 @@
 
 
     .navbar{width: 100%;
-    background-image: linear-gradient(to right,white, beige,#ffc107,#db5bdb)
-     ;}
+      background-image: linear-gradient(to right,white, beige,#ffc107,#db5bdb)
+      ;}
      .nav-link{color: white; !important;}
     
   
@@ -15,11 +15,8 @@
      
      .gradient {
        background: rgb(0, 97, 242);
-       background: linear-gradient(
-         135deg,
-         rgb(184, 48, 177) 0%,
-         rgb(245, 172, 15) 100%
-       );
+       background-image: linear-gradient(to right,#db5bdb,#ffc107)
+     ;
      }
      
      .page-header {
