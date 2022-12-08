@@ -6,6 +6,11 @@
      .nav-link{color: white; !important;}
     
   
+.gradient{
+    background: rgb(219,91,219);
+background: linear-gradient(90deg, rgba(219,91,219,1) 0%, rgba(219,91,219,1) 31%, rgba(255,193,7,1) 59%, rgba(255,193,7,1) 88%);
+}
+
 /* Footer Section */
 
 
