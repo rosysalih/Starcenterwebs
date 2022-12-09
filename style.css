@@ -138,3 +138,7 @@
   background: #db5bdb;
 }
 
+.test a {
+  color: aqua;
+  text-decoration: none;
+}
