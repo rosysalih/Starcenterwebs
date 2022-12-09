@@ -139,9 +139,9 @@
 }
 
 .test a {
-  color: aqua;
+  color: orange;
   text-decoration: none;
 }
 .test a:hover{
-color: orange;
+color: blue;
 }
