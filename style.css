@@ -142,3 +142,6 @@
   color: aqua;
   text-decoration: none;
 }
+.test a:hover{
+color: aqua;
+}
