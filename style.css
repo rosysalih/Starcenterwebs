@@ -530,12 +530,12 @@ h1, h2, h3, h4, h5, h6
 }
 
 .blog-home2 .subtitle {
-  color: #8d97ad;
+  color: #080808;
   line-height: 24px;
 }
 
 .blog-home2 .text-themecolor {
-  color: #316ce8;
+  color: #070707;
 }
 
 .blog-home2 h5 {
@@ -544,7 +544,7 @@ h1, h2, h3, h4, h5, h6
 }
 
 .blog-home2 a.link {
-  color: #3e4555;
+  color: #316ce8;;
 }
 
 .blog-home2 a.link:hover {
